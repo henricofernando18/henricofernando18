@@ -23,6 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/linkedin.com/in/henrico-fernando-nainggolan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/henrico-fernando-nainggolan/" height="30" width="40" /></a>
 <a href="https://kaggle.com/h fernando nainggolan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="h fernando nainggolan" height="30" width="40" /></a>
+<a href="https://fb.com/henrico frnnd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="henrico frnnd" height="30" width="40" /></a>
 <a href="https://instagram.com/18nainggolan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="18nainggolan" height="30" width="40" /></a>
 </p>
 
