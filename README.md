@@ -65,4 +65,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nainggolan18&show_icons=true&locale=en" alt="nainggolan18" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nainggolan18&" alt="nainggolan18" /></p>
+<!-- Bagian ini tetap menggunakan username lama sesuai permintaan -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henricofernando18&" alt="henricofernando18" /></p>
